@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css">
+    <script src="main.js"></script>
+    <title>Site do Oráculo</title>
+</head>
+<body>
+
+    <header>
+    <h1><img id=banner src="bannergames.png"></h1>
+    <h2 class="inicio">A relação dos Games com a História</h2>
+    <h3>Introdução</h3>
+
+</header>
+    <p>
+        A partir de hoje vocês irão ver como podemos aprender História de uma forma muito mais interessante. 
+        A ideia é <em style="color:red;"><strong>a aprendizagem muito mais legal</strong></em> e ao mesmo tempo detonar nas avaliações 😎😎
+
+        <iframe class=assassins width="560" height="315" src="https://www.youtube.com/embed/tdZpoQ3OCdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </p>
+    
+</body>
+</html>
