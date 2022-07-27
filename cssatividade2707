@@ -1,0 +1,25 @@
+.header {
+
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+#banner{
+    width: 80%;
+    padding: 20px 150px;
+}
+.inicio{
+    text-align: center;
+    font-size: 50px;
+    background: #B0C4DE;
+}
+
+.assassins{
+
+    align-items: baseline;
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+    margin-top: 2%;
+}
