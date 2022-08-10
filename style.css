@@ -4,7 +4,10 @@
     background: #BBBBBB;
     padding: 20px 0;
 }
+#fundo {
 
+    background: gray;
+}
 #banner{
     width: 80%;
     padding: 20px 150px;
