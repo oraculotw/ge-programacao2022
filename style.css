@@ -6,11 +6,15 @@
 }
 #fundo {
 
-    background: gray;
+    background: #B0C4DE;
+    background-image: E:\Documentos\professor\2022\Andreatta\Pensamento computacional\Aula curso formadores\planodefundogeral.jpg;
 }
 #banner{
-    width: 80%;
-    padding: 20px 150px;
+    max: width 900px;px;
+    max: height 800px;px;
+    width: 600px;
+    height: 400px;
+    padding: 20px 550px;
 }
 .inicio{
     text-align: center;
@@ -26,8 +30,8 @@
 
 
 .p1{
-
     text-align: center;
+    font-size: 18px;
 }
 .assassins{
 
@@ -41,9 +45,10 @@
     margin-top: 2%;
 }
 
-.textojogo {
+.textojogo{
 
     text-align: justify;
+    font-size: large;
     align-items:center
     display: inline-block;
     padding: 200 px;
@@ -52,4 +57,47 @@
     width: 30%;
     margin-right: 15%;
     margin-top: 2%;
+}
+
+
+#livros {
+
+    align-content: center;
+    float: left;
+    display: flexbox;
+    align-self: left;
+    width: 600px;
+    height: 400px;
+    padding: 20px 20px;
+}
+
+
+.titulo2{
+padding: 20px;
+font-size: large;
+float: inline-end;
+display:flex;
+vertical-align:left;    
+
+}
+.textojogohistoria{
+
+    text-align: justify;
+    display:inline-block;vertical-align:left;
+    font-size: 18px;
+    display: flex;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing:content-box;
+    box-shadow: inset;
+    border:2px #352c2c48 solid;
+    border-radius: 10px;
+}
+
+.lista {
+text-align: justify;
+margin: 5px;
+
 }
